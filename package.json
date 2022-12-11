@@ -1,0 +1,18 @@
+{
+  "name": "cargame3",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "buffer": "^5.5.0",
+    "parcel": "latest",
+    "path-browserify": "^1.0.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "three": "^0.147.0"
+  }
+}
